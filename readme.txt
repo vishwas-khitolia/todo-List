@@ -71,3 +71,5 @@ Note:
 - The project is built using Bootstrap 5 for responsive design and enhanced UI.
 - On 17/07/2025, during a one-to-one session, I was informed that using Bootstrap is allowed.
 - However, if you prefer a version without Bootstrap, I can also provide the same system using only HTML, CSS, and JavaScript.
+- GitHub link has been added to the navigation bar.  
+  The link is: [https://github.com/vishwas-khitolia/todo-List](https://github.com/vishwas-khitolia/todo-List)
